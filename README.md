@@ -1,6 +1,6 @@
 ## NixOS Installers for T2 Macs
 
-This flake can be used to build a NixOS installer that can be used with T2 Macs.
+This flake can be used to build a NixOS installer that can be used with T2 Macs.  
 
 This repo provides two ISOs:
 * `t2-iso-minimal`
